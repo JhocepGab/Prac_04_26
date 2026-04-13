@@ -1,0 +1,6 @@
+C:\Users\UCC20333\source\repos\Prac_04_26\Listas\bin\Debug\Listas.dll
+C:\Users\UCC20333\source\repos\Prac_04_26\Listas\bin\Debug\Listas.pdb
+C:\Users\UCC20333\source\repos\Prac_04_26\Listas\obj\Debug\Listas.csproj.AssemblyReference.cache
+C:\Users\UCC20333\source\repos\Prac_04_26\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+C:\Users\UCC20333\source\repos\Prac_04_26\Listas\obj\Debug\Listas.dll
+C:\Users\UCC20333\source\repos\Prac_04_26\Listas\obj\Debug\Listas.pdb

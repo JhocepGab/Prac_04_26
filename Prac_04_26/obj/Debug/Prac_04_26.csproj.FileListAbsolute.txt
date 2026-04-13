@@ -1,0 +1,10 @@
+C:\Users\UCC20333\source\repos\Prac_04_26\Prac_04_26\obj\Debug\Prac_04_26.csproj.AssemblyReference.cache
+C:\Users\UCC20333\source\repos\Prac_04_26\Prac_04_26\obj\Debug\Prac_04_26.csproj.CoreCompileInputs.cache
+C:\Users\UCC20333\source\repos\Prac_04_26\Prac_04_26\bin\Debug\Prac_04_26.exe.config
+C:\Users\UCC20333\source\repos\Prac_04_26\Prac_04_26\bin\Debug\Prac_04_26.exe
+C:\Users\UCC20333\source\repos\Prac_04_26\Prac_04_26\bin\Debug\Prac_04_26.pdb
+C:\Users\UCC20333\source\repos\Prac_04_26\Prac_04_26\bin\Debug\Listas.dll
+C:\Users\UCC20333\source\repos\Prac_04_26\Prac_04_26\bin\Debug\Listas.pdb
+C:\Users\UCC20333\source\repos\Prac_04_26\Prac_04_26\obj\Debug\Prac_04_26.csproj.Up2Date
+C:\Users\UCC20333\source\repos\Prac_04_26\Prac_04_26\obj\Debug\Prac_04_26.exe
+C:\Users\UCC20333\source\repos\Prac_04_26\Prac_04_26\obj\Debug\Prac_04_26.pdb
